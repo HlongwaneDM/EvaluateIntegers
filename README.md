@@ -1,10 +1,10 @@
 * This program is written in Java,
 * It is used to evaluate integer numbers.
-* It contain two classes "EvaluateStrings" and "EvaluateIntegers"
 
 
 How to Compile and Run (execute) the program:
 •download the files into a directory you want then launch it.
+*Unzip the project
 •Change directory on your terminal to where you extracted the files.
 •To compile, run the following command on your terminal: javac EvaluateStrings.java javac EvaluateIntegers.java
 •You can also run provided Jar files java -jar EvaluateStrings java -jar EvaluateIntegers
